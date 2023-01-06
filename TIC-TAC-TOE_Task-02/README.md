@@ -6,7 +6,7 @@ BEGINNER LEVEL TASK-02 : Create a Tic-Tac-Toe Game
 This is a very easy java code for unbeatable 2D Tic-Tac-Toe.
 1. Download the above java file and run the code on your choice of IDE.
 2. Click on "Start Game". <br/>
-<img width="250" alt="text" src="https://user-images.githubusercontent.com/46564084/93373785-73720080-f873-11ea-97c4-ef3e04600c05.JPG">
+<img width="180" alt="text" src="https://user-images.githubusercontent.com/46564084/93373785-73720080-f873-11ea-97c4-ef3e04600c05.JPG">
 
 3. You have the choice of playing first, otherwise the computer plays first.<br/>
 <img width="250" alt="text" src="https://user-images.githubusercontent.com/46564084/93373942-addb9d80-f873-11ea-9547-2bb68ba1e820.JPG"><br/>
