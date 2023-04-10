@@ -1,5 +1,5 @@
-# LGMVIP-Java
-LetsGrowMore Virtual Internship Program Tasks      " Overview "
+# VIP-Java
+Virtual Internship Program Tasks      " Overview "
 
 ----------------------
 
